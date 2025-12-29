@@ -1,0 +1,10 @@
+[project]
+name = "final-traffic2"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "roboflow>=1.2.11",
+    "ultralytics>=8.3.241",
+]
